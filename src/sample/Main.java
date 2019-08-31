@@ -11,7 +11,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
-
+/**
+ *功能描述
+ * @author wangxu
+ * @date 2019/8/25
+ */
 public class Main{
 
 
@@ -29,7 +33,11 @@ public class Main{
         }
 
 
-
+    /**
+     *功能描述
+     * @author wangxu
+     * @date 2019/8/25
+     */
     public static void main(String[] args) {
             fun1();
        /* Optional<String> op=Optional.of("bam");

@@ -3,7 +3,11 @@ package com.lishan;
 public class TestPerson {
     public static TestPerson t1 = new TestPerson();
     public static TestPerson t2 = new TestPerson();
-
+/**
+ *功能描述
+ * @author wangxu
+ * @date 2019/8/25
+ */
     {
         System.out.println("构造块");
     }
@@ -54,7 +58,11 @@ public class TestPerson {
 
     public void a() {
     }
-
+/*
+ *功能描述
+ * @author wangxu
+ * @date 2019/8/25
+ */
     static void fun(int x, int y, int a, int b) {
         a = x + y;
         b = x - y;

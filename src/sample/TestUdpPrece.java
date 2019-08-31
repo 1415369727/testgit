@@ -4,7 +4,11 @@ import sun.nio.ch.DatagramSocketAdaptor;
 import java.io.IOException;
 import java.net.*;
 import java.sql.SQLOutput;
-
+/**
+ *功能描述
+ * @author wangxu
+ * @date 2019/8/25
+ */
 public class TestUdpPrece
 {
     public static void fun() throws IOException {

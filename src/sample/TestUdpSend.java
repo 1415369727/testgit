@@ -8,7 +8,11 @@ public class TestUdpSend {
     fun();
 
     }
-
+/**
+ *功能描述
+ * @author wangxu
+ * @date 2019/8/25
+ */
     public static void fun()throws Exception{
         //创建发送端端点对象
         DatagramSocket ds=new DatagramSocket();
